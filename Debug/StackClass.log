@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\uu\source\repos\stackclass\stackclass\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\uu\source\repos\stackclass\stackclass\class.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\uu\source\repos\stackclass\stackclass\class.h(267): warning C4715: “Mystring::strsrh”: 不是所有的控件路径都返回值
+  StackClass.vcxproj -> C:\Users\uu\source\repos\StackClass\Debug\StackClass.exe
